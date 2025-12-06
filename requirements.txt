@@ -1,0 +1,14 @@
+# Core dependencies from documentation
+torch==2.5.1
+transformers==4.46.3
+shap==0.46.0
+lime==0.2.0.1
+scikit-learn==1.5.2
+
+# Additional dependencies from notes
+matplotlib
+numba
+cmake
+numpy
+pandas
+ipykernel
